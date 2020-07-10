@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "gMpwWiHq2bkU80oEHhPk3l1rWnfIPlayPw8l/JLuXK3Gd0/ivs1cS/MdbHM3mmIkC9UUos11yOT55qcom7h+oQ==",
+  "dgSpecHash": "voFnylFUf809Pc5FunkjVehu9h4LxZvc8+6g/CgbhwNnCHQH3lhfi815qUNMhcfEZLYrsYe9LzfCCDzsRX/sMA==",
   "success": true,
   "projectFilePath": "C:\\Users\\decio\\Desktop\\Curso openshift\\App1\\App1\\App1\\App1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\decio\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\decio\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\decio\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\decio\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\decio\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\decio\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\decio\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
